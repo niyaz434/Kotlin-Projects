@@ -1,5 +1,5 @@
 fun main() {
-    println("------------------------Learning class and constructor intialization------------------------------")
+    println("------------------------Learning class and constructor initialization------------------------------")
     creatingClass()
 }
 

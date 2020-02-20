@@ -10,7 +10,7 @@ class SecondaryConstructor {
     constructor(secondaryString: String, secondaryInt: Int) {
         myString = secondaryString.toUpperCase()
         myInt = secondaryInt
-        println("Intialized string is $secondaryString + $secondaryInt")
+        println("Initialized string is $secondaryString + $secondaryInt")
     }
 
     fun getMyString(): String {
