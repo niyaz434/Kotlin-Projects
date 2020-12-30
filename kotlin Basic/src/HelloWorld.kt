@@ -10,7 +10,7 @@ fun main() {
     /*getting the user name and mobile number*/
     println("Please enter your name")
     var enteredName = readLine()
-    println("Please enter mobile number")
+    println("Please enter mobile number  ")
     var enterNum = readLine()
 
     println("Enter to print the entered result")
